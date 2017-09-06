@@ -1,0 +1,28 @@
+ATA: 09/06/17
+
+* Unix Commands
+    * “mv” - Move and/or rename 
+    * “touch” - Create new empty files and updates timestamp on existing files
+    * “cat” -  View contents of file in shell 
+    * “less" - View contents of file 1 page at a time 
+    * “cp” - Similar to mv but makes a copy
+    * “rm -r” - Remove directory that isn’t empty
+    * “rmdir” - Remove empty directory 
+    * “history” - See all of the commands you entered
+        * Add number argument to see last n items 
+        * Ctrl + R - Query search history
+    * “history > TargetFile” overwrites output of command into file
+    * “history >> TargetFile” appends output of command into file
+    * “clear" - Wipes current shell 
+        * Cmd + Ctrl + L
+        * CMD + K - Wipes buffer so can’t get shell contents back
+    * “!!” - See last command and run it
+    * “head” - Displays first 10 lines o file
+        * Add “-n” and number argument to see n lines
+    * “tail" - Opposite of head
+    * “find SourceDirectory -name FileName” - Find files in a directory with a name of ___
+
+* Unix Recursive Commands 
+    * “cp -r” - Copies entire directory including all sub file/folders  
+
+
