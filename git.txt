@@ -1,0 +1,13 @@
+* Git
+    * Staging also referred to as index
+    * Make changes in Working Tree, push them to Staging area (temp workspace), and incorporate into History of Master Branch 
+    * "git init” - Initialized a git repository  
+    * “git status” - Shows files in Staging area & Working Tree
+    * “git add <file>” - Changes file from untracked to track and puts file to Staging area
+    * “git st” - Aliased version of status for summarized info 
+    * “git commit -m <Message>” - Commits file(s) in Staging area 
+        * The -m is for the message
+    * “git log” - Shows you whats in history 
+    * “git la” - Aliased long form all history
+    * “git ll” - Aliased long form list history 
+    * “man git-<command> - See manual page for a specific command      
